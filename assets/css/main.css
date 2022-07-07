@@ -20,46 +20,107 @@ main {
     text-align: center;
 }
 
-/* MAIN_LOGO */
+/* MAIN */
+
+.main_header {
+    color: #f1f1f1;
+    margin-top: 0;
+    width: 100%;
+    height: 250px;
+}
 
 .main_logo {
-    color: #f1f1f1;
+    width: 250px;
+    height: 250px;
 }
 
-.main_logo h2 {
-    font-size: 50px;
-}
-
-/* MAIN_INTRODUCTION */
-
-.main_introduction {
-    color: #f1f1f1;
-}
-
-/* MAIN_PORTFOLIO */
-
-.main_portfolio {
-    color: #f1f1f1;
-    width: 80%;
+.main_header_sub {
+    height: 50px;
+    margin-top: 5px;
+    width: 100%;
     margin: 0 auto;
 }
 
-.main_portfolio li {
-    border: 3px solid #f1f1f1;
+.main_header_sub_btn {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: none;
+    background-color: #333333;
     color: #f1f1f1;
-    height: 100px;
-    width: 100px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    transition:all .1s linear;
+}
+
+.main_header_sub_btn:hover {
+    background-color: #f1f1f1;
+    color: #333333;
+}
+
+.main_go_btn:hover {
+    background-color: #333333;
+    color: #f1f1f1;
+}
+
+.main_content {
+    width: 100%;
+    height: 100%;
+}
+
+.main_content h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 40vh auto;
+}
+
+.main_introduce {
+    width: 100%;
+    height: 100%;
+}
+
+.main_introduce h1 {
+    margin: 40vh auto;
+}
+
+.main_member {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main_member_btn {
+    width: 300px;
+    height: 300px;
     margin-right: 15px;
     margin-left: 15px;
+    border-radius: 300px;
+    border: none;
+    transition:all .1s linear;
+    cursor: pointer;
 }
 
-.main_portfolio_detail {
+.main_member_btn:hover {
+    background-color: #333333;
     color: #f1f1f1;
 }
 
-/* MAIN_COPYRIGHT */
-
-.main_copyright {
+.main_footer {
+    margin-top: 50px;
+    width: 100%;
+    height: 10px;
     color: #f1f1f1;
+    text-align: center;
 }
 
+.main_footer p {
+    font-size: 14px;
+}
