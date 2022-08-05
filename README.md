@@ -1,5 +1,5 @@
 
-<img src="./assets/img/Cople_Logo_Black.png" width="300px" height="300px"> <img src="./assets/img/Cople_Logo_White.png" width="300px" height="300px">
+<img src="./assets/img/Cople2.png" width="300px" height="300px"> <img src="./assets/img/Cople3.png" width="300px" height="300px">
 
 <br>
 <br>
@@ -11,6 +11,6 @@
 <br>
 
 # COPLE / MEMBER
-### [김성현]() [김시윤]() [서휘원](https://github.com/Seo1001)
-### [손근원](https://github.com/SourceH0325) [최민기]() [최종환]()
-### [최태흠]()
+### [김성현](https://cople.tech/members/member1) [김시윤](https://cople.tech/members/member2) [서휘원](https://github.com/Seo1001)
+### [손근원](https://github.com/SourceH0325) [최민기](https://cople.tech/members/member5) [최종환](https://cople.tech/members/member6)
+### [최태흠](https://cople.tech/members/member7)
