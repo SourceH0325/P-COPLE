@@ -1,5 +1,5 @@
 
-<img src="./assets/img/Cople2.png" width="300px" height="300px"> <img src="./assets/img/Cople3.png" width="300px" height="300px">
+<img src="./assets/img/COPLE_B.png">
 
 <br>
 <br>
